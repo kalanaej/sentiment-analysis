@@ -1,2 +1,2 @@
 # sentiment-analysis
- Done sentiment analysis for IMDB movie reviews using python
+ Done sentiment analysis for amazon Office Products reviews using python
